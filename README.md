@@ -30,7 +30,7 @@ Fork本项目，在你的仓库下点击Settings，增加`SCHOOL_NAME`、`ACCOUN
 ![Secrets](https://github.com/lemofire/DailyCP/blob/master/doc/Secrets.png)
 
 ##### 签到方式：
-
+  
 ###### 手动签到
 * push
 * 自己给自己star
